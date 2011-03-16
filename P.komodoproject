@@ -3,7 +3,7 @@
 <project id="851e0c88-206c-47b7-ac93-96d1359dbff7" kpf_version="5" name="P.komodoproject">
 <preference-set idref="851e0c88-206c-47b7-ac93-96d1359dbff7">
   <string id="lastTestPlanName_pref">New test plan #1</string>
-  <string id="pythonExtraPaths">D:\Dev\Python\workspace\libs\python3-chardet-2.0.1;D:\Dev\Python\workspace\leek</string>
+  <string id="pythonExtraPaths">E:\gitRepos\P;E:\gitRepos\P\libs\python3-chardet-2.0.1</string>
 <preference-set id="testPlans">
 <preference-set id="New test plan #1">
   <string id="command_line"></string>
